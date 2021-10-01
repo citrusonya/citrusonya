@@ -2,4 +2,4 @@
 
 I love creating beautiful and user-friendly websites.
 
-Right now I'm studying **React** and deepening my knowledge of **JavaScript (ES6+)**.
+Now I work in the company "MixCart" and improve myself in the field of backend development.
